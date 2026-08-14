@@ -1,0 +1,19 @@
+# Memo: [Tên sản phẩm AI]
+
+## Step 1 — Timeline & Nguyên lý
+
+...
+
+## Step 2 — Tệp User, JTBD & 4 Forces
+
+...
+
+## Step 3 — 3 Dự đoán
+
+1. ...
+2. ...
+3. ...
+
+## Step 4 — Tổng hợp & Kết luận
+
+...
