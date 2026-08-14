@@ -4,9 +4,9 @@ Giới thiệu tổng quan dự án phân tích một sản phẩm AI (product t
 
 ## Nhóm
 
-- Thành viên 1 — vai trò
-- Thành viên 2 — vai trò
-- Thành viên 3 — vai trò
+- Lương Thanh Trang - Dự đoán & Khung Memo (Leader)
+- Vũ Huy Hoàng - Timeline & Nguồn
+- Đặng Đức Hoà - User & JTBD
 
 ## Deliverables
 
