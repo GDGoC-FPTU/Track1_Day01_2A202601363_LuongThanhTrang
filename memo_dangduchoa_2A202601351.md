@@ -1,3 +1,9 @@
+# Memo Phân Công Cá Nhân: Đặng Đức Hòa (MSSV: 2A202601351)
+**Sản phẩm:** Perplexity
+**Nhiệm vụ phân công (Theo team.md):** Người B — User, JTBD & 4 Forces (CP2)
+
+---
+
 # Step 2 — Tệp User, JTBD & 4 Forces (Perplexity.ai)
 *(Được tổng hợp và phân tích chuyên sâu dựa trên dữ liệu từ Step 0 — `docs/step-0-raw-sources.md`)*
 
