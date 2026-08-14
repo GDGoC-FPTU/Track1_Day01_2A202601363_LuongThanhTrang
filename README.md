@@ -11,7 +11,7 @@ Giới thiệu tổng quan dự án phân tích một sản phẩm AI (product t
 ## Deliverables
 
 - [memo.md](memo.md) — Memo tổng hợp chính (Step 1 → Step 4)
-- [slides.pdf](slides.pdf) — Slide thuyết trình nhóm
+- [slides.pptx](slides.pptx) — Slide thuyết trình nhóm
 
 ## Cấu trúc thư mục
 
